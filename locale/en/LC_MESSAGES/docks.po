@@ -1,0 +1,1341 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: docks 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-25 14:41+0200\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /home/pablo/Escritorio/docks/src/docks/app.py:75
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:386
+msgid "Preferences"
+msgstr "Preferences"
+
+#: /home/pablo/Escritorio/docks/src/docks/app.py:80
+msgid "General"
+msgstr "General"
+
+#: /home/pablo/Escritorio/docks/src/docks/app.py:83
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:387
+msgid "Language"
+msgstr "Language"
+
+#: /home/pablo/Escritorio/docks/src/docks/app.py:85
+msgid "Interface Language"
+msgstr "Interface Language"
+
+#: /home/pablo/Escritorio/docks/src/docks/app.py:86
+msgid "Save the preferred application language"
+msgstr "Save the preferred application language"
+
+#: /home/pablo/Escritorio/docks/src/docks/app.py:100
+msgid "Appearance"
+msgstr "Appearance"
+
+#: /home/pablo/Escritorio/docks/src/docks/app.py:102
+msgid "Color Scheme"
+msgstr "Color Scheme"
+
+#: /home/pablo/Escritorio/docks/src/docks/app.py:103
+msgid "Choose how Docks follows the desktop theme"
+msgstr "Choose how Docks follows the desktop theme"
+
+#: /home/pablo/Escritorio/docks/src/docks/app.py:105
+msgid "Follow system"
+msgstr "Follow system"
+
+#: /home/pablo/Escritorio/docks/src/docks/app.py:105
+msgid "Light"
+msgstr "Light"
+
+#: /home/pablo/Escritorio/docks/src/docks/app.py:105
+msgid "Dark"
+msgstr "Dark"
+
+#: /home/pablo/Escritorio/docks/src/docks/app.py:144
+msgid "Docker desktop client for GNOME built with GTK4 and libadwaita."
+msgstr "Docker desktop client for GNOME built with GTK4 and libadwaita."
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:141
+msgid "Sections"
+msgstr "Sections"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:165
+msgid "Content"
+msgstr "Content"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:190
+msgid "Refreshing Docker data…"
+msgstr ""
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:223
+msgid "Application menu"
+msgstr "Application menu"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:243
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:315
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:489
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1334
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1384
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1470
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2583
+msgid "Containers"
+msgstr "Containers"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:244
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:324
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:490
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:633
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2584
+msgid "Images"
+msgstr "Images"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:245
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:333
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:491
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:658
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1450
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2585
+msgid "Networks"
+msgstr "Networks"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:246
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:342
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:492
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:683
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2586
+msgid "Volumes"
+msgstr "Volumes"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:316
+msgid "Workloads running on the active Docker connection."
+msgstr "Workloads running on the active Docker connection."
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:325
+msgid "Pulled images and local build artifacts."
+msgstr "Pulled images and local build artifacts."
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:334
+msgid "Available Docker networks."
+msgstr "Available Docker networks."
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:343
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:492
+msgid "Persistent data attached to your containers."
+msgstr "Persistent data attached to your containers."
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:354
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:459
+msgid "Loading Docker data"
+msgstr ""
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:355
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:460
+#, fuzzy
+msgid "Checking the active Docker connection and fetching resources."
+msgstr "Workloads running on the active Docker connection."
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:365
+msgid "No local Docker instance was found"
+msgstr "No local Docker instance was found"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:368
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:469
+msgid "Retry"
+msgstr "Retry"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:381
+msgid "Auto-detect"
+msgstr "Auto-detect"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:382
+msgid "English"
+msgstr "English"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:383
+msgid "Español"
+msgstr ""
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:385
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:479
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:497
+msgid "Refresh"
+msgstr "Refresh"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:388
+msgid "About Docks"
+msgstr "About Docks"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:389
+msgid "Quit"
+msgstr "Quit"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:412
+msgid "Close search"
+msgstr ""
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:444
+msgid "Search (Ctrl+F)"
+msgstr ""
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:467
+msgid "Docker unavailable"
+msgstr "Docker unavailable"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:468
+msgid "Local engine not detected"
+msgstr "Local engine not detected"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:475
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:590
+msgid "Back"
+msgstr "Back"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:482
+#, fuzzy
+msgid "Resource unavailable"
+msgstr "Docker unavailable"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:482
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:484
+msgid "Detail view"
+msgstr ""
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:484
+#, fuzzy
+msgid "Loading details"
+msgstr "Container details"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:489
+msgid "Runtime workload on your local engine."
+msgstr ""
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:490
+msgid "Reusable filesystem snapshots available locally."
+msgstr ""
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:491
+msgid "Connectivity configuration for your containers."
+msgstr ""
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:518
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2321
+msgid "Prune unused images"
+msgstr ""
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:520
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2443
+#, fuzzy
+msgid "Create network"
+msgstr "Delete network"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:521
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2345
+msgid "Prune unused networks"
+msgstr ""
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:523
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2391
+#, fuzzy
+msgid "Create volume"
+msgstr "Delete volume"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:524
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2333
+msgid "Prune unused volumes"
+msgstr ""
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:576
+#, fuzzy
+msgid "Loading resource details"
+msgstr "Container details"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:577
+msgid "The selected Docker resource is being inspected."
+msgstr ""
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:587
+msgid "The selected resource is no longer available"
+msgstr ""
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:608
+msgid "Total"
+msgstr "Total"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:609
+msgid "Running"
+msgstr "Running"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:610
+msgid "Stopped"
+msgstr "Stopped"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:619
+#, fuzzy
+msgid "No containers found"
+msgstr "Containers"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:620
+#, fuzzy
+msgid "The local Docker engine has no containers yet."
+msgstr "The local Docker daemon did not answer correctly."
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:634
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:839
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:881
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1319
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1455
+msgid "Used"
+msgstr "Used"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:635
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:881
+msgid "Unused"
+msgstr "Unused"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:644
+msgid "No images found"
+msgstr ""
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:645
+msgid "Pull or build an image and it will appear here."
+msgstr ""
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:659
+msgid "Bridge"
+msgstr "Bridge"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:660
+msgid "Other"
+msgstr "Other"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:669
+#, fuzzy
+msgid "No networks found"
+msgstr "Networks"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:670
+msgid "Create a Docker network and it will appear here."
+msgstr ""
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:684
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:948
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1349
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1362
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1462
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1467
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2464
+msgid "Driver"
+msgstr "Driver"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:684
+msgid "local"
+msgstr "local"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:685
+msgid "Mounted"
+msgstr "Mounted"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:694
+#, fuzzy
+msgid "No volumes found"
+msgstr "Volumes"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:695
+msgid "Create a volume from Docker and it will appear here."
+msgstr ""
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:728
+#, fuzzy
+msgid "Search containers"
+msgstr "Containers"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:729
+#, fuzzy
+msgid "Search images"
+msgstr "Images"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:730
+#, fuzzy
+msgid "Search networks"
+msgstr "Networks"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:731
+#, fuzzy
+msgid "Search volumes"
+msgstr "Volumes"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:796
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1888
+#, python-format
+msgid "%(count)s selected"
+msgstr "%(count)s selected"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:838
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:896
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:946
+msgid "Name"
+msgstr "Name"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:840
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1316
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1456
+msgid "Tags"
+msgstr "Tags"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:841
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:898
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1036
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1317
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1350
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1448
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1458
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1464
+msgid "Created"
+msgstr "Created"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:842
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:899
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:951
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1037
+msgid "Actions"
+msgstr "Actions"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:864
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:920
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:974
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2691
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2700
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2708
+msgid "View details"
+msgstr "View details"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:865
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2356
+#, fuzzy
+msgid "Pull image"
+msgstr "Images"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:866
+msgid "Delete image"
+msgstr "Delete image"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:897
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1351
+msgid "Mountpoint"
+msgstr "Mountpoint"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:921
+msgid "Delete volume"
+msgstr "Delete volume"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:947
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1364
+msgid "Stack"
+msgstr "Stack"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:949
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1367
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1468
+msgid "IPv4"
+msgstr "IPv4"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:950
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1368
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1469
+msgid "IPv6"
+msgstr "IPv6"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:975
+msgid "Delete network"
+msgstr "Delete network"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1033
+msgid "Name / Label"
+msgstr "Name / Label"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1034
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1293
+msgid "Status"
+msgstr "Status"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1035
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1280
+msgid "Image"
+msgstr "Image"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1101
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2692
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2701
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2709
+msgid "Logs"
+msgstr "Logs"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1105
+msgid "Clear"
+msgstr "Clear"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1109
+msgid "Copy"
+msgstr ""
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1113
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2943
+msgid "Save"
+msgstr ""
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1123
+#, fuzzy
+msgid "Follow"
+msgstr "Follow system"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1131
+msgid "Tail"
+msgstr ""
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1134
+msgid "Hide"
+msgstr "Hide"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1278
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1314
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1348
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1360
+msgid "Overview"
+msgstr "Overview"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1285
+msgid "Command"
+msgstr ""
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1287
+msgid "Restart policy"
+msgstr "Restart policy"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1288
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1451
+msgid "none"
+msgstr "none"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1290
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1355
+msgid "Labels"
+msgstr "Labels"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1292
+msgid "Runtime"
+msgstr "Runtime"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1294
+msgid "Started at"
+msgstr "Started at"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1295
+msgid "Finished at"
+msgstr "Finished at"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1296
+msgid "Exit code"
+msgstr "Exit code"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1297
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1342
+msgid "Platform"
+msgstr "Platform"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1298
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1339
+msgid "User"
+msgstr "User"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1299
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1340
+msgid "Working dir"
+msgstr "Working dir"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1301
+msgid "Networking"
+msgstr "Networking"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1302
+msgid "Hostname"
+msgstr "Hostname"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1303
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1449
+msgid "Ports"
+msgstr "Ports"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1305
+#, fuzzy
+msgid "Network"
+msgstr "Networks"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1306
+msgid "IP address"
+msgstr "IP address"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1308
+msgid "Storage"
+msgstr "Storage"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1311
+#, fuzzy
+msgid "Mount count"
+msgstr "Mountpoint"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1315
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1361
+msgid "Id"
+msgstr ""
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1316
+msgid "No tags"
+msgstr "No tags"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1318
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1457
+msgid "Size"
+msgstr "Size"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1319
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1372
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1373
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1455
+msgid "Yes"
+msgstr "Yes"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1319
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1372
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1373
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1455
+msgid "No"
+msgstr "No"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1321
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1354
+msgid "Usage"
+msgstr "Usage"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1327
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1378
+msgid "Container"
+msgstr "Container"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1334
+#, fuzzy
+msgid "Not used by any container"
+msgstr "Delete network"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1336
+msgid "Configuration"
+msgstr "Configuration"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1337
+msgid "Entrypoint"
+msgstr "Entrypoint"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1338
+msgid "Cmd"
+msgstr "Cmd"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1343
+msgid "OS"
+msgstr "OS"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1344
+msgid "Architecture"
+msgstr "Architecture"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1345
+msgid "Docker version"
+msgstr "Docker version"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1352
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1363
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1463
+msgid "Scope"
+msgstr "Scope"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1356
+msgid "Options"
+msgstr "Options"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1357
+msgid "Usage data"
+msgstr "Usage data"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1366
+msgid "Addressing"
+msgstr "Addressing"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1369
+msgid "Gateway"
+msgstr "Gateway"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1371
+msgid "Connectivity"
+msgstr "Connectivity"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1372
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2465
+msgid "Internal"
+msgstr "Internal"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1373
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2466
+msgid "Attachable"
+msgstr "Attachable"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1451
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1907
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2081
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2157
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2693
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2702
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2710
+msgid "Restart"
+msgstr "Restart"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1519
+msgid "Open related resource"
+msgstr "Open related resource"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1562
+msgid "Mounts"
+msgstr "Mounts"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1570
+#, fuzzy
+msgid "Volume"
+msgstr "Volumes"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1572
+#, fuzzy
+msgid "Mount"
+msgstr "Mounts"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1782
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:3326
+#, python-format
+msgid "%(reason)s Start Docker locally and try again."
+msgstr ""
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1899
+msgid "Select all"
+msgstr "Select all"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1900
+msgid "Clear selection"
+msgstr "Clear selection"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1905
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2079
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2155
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2711
+msgid "Start"
+msgstr "Start"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1906
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2080
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2156
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2694
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2704
+msgid "Stop"
+msgstr "Stop"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1908
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2082
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2158
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2695
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2712
+msgid "Pause"
+msgstr "Pause"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1911
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1945
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2160
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2696
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2705
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2713
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2730
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2804
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2839
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2874
+msgid "Delete"
+msgstr "Delete"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1940
+msgid "Delete selected items?"
+msgstr ""
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:1941
+#, python-format
+msgid "This will delete %(count)s selected %(section)s."
+msgstr ""
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2048
+#, fuzzy
+msgid "container"
+msgstr "Containers"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2048
+#, fuzzy
+msgid "containers"
+msgstr "Containers"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2049
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2267
+#, fuzzy
+msgid "image"
+msgstr "Images"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2049
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2267
+#, fuzzy
+msgid "images"
+msgstr "Images"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2050
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2269
+#, fuzzy
+msgid "network"
+msgstr "Networks"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2050
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2269
+#, fuzzy
+msgid "networks"
+msgstr "Networks"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2051
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2268
+#, fuzzy
+msgid "volume"
+msgstr "Volumes"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2051
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2268
+#, fuzzy
+msgid "volumes"
+msgstr "Volumes"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2058
+#, fuzzy
+msgid "Start selected containers?"
+msgstr "Delete network"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2059
+#, fuzzy
+msgid "Stop selected containers?"
+msgstr "Delete network"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2060
+#, fuzzy
+msgid "Restart selected containers?"
+msgstr "Delete network"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2061
+#, fuzzy
+msgid "Pause selected containers?"
+msgstr "Delete network"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2062
+#, fuzzy
+msgid "Resume selected containers?"
+msgstr "Delete network"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2064
+#, fuzzy
+msgid "Apply action to selected containers?"
+msgstr "Delete network"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2068
+#, python-format
+msgid "This will start %(count)s selected container(s)."
+msgstr ""
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2069
+#, python-format
+msgid "This will stop %(count)s selected container(s)."
+msgstr ""
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2070
+#, python-format
+msgid "This will restart %(count)s selected container(s)."
+msgstr ""
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2071
+#, python-format
+msgid "This will pause %(count)s selected container(s)."
+msgstr ""
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2072
+#, python-format
+msgid "This will resume %(count)s selected container(s)."
+msgstr ""
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2074
+#, python-format
+msgid "This will apply the action to %(count)s selected container(s)."
+msgstr ""
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2083
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2159
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2703
+msgid "Resume"
+msgstr "Resume"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2085
+#, fuzzy
+msgid "Confirm"
+msgstr "Configuration"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2107
+#, python-format
+msgid "%(success)s ok, %(failed)s failed: %(items)s. %(reason)s"
+msgstr ""
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2118
+#, fuzzy, python-format
+msgid "%(count)s container(s) started."
+msgstr "%(count)s action(s) failed."
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2119
+#, fuzzy, python-format
+msgid "%(count)s container(s) stopped."
+msgstr "%(count)s action(s) failed."
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2120
+#, fuzzy, python-format
+msgid "%(count)s container(s) restarted."
+msgstr "%(count)s action(s) failed."
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2121
+#, fuzzy, python-format
+msgid "%(count)s container(s) paused."
+msgstr "%(count)s action(s) failed."
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2122
+#, fuzzy, python-format
+msgid "%(count)s container(s) resumed."
+msgstr "%(count)s action(s) failed."
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2123
+#, fuzzy, python-format
+msgid "%(count)s container(s) removed."
+msgstr "%(count)s action(s) failed."
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2124
+#, fuzzy, python-format
+msgid "%(count)s image(s) removed."
+msgstr "%(count)s action(s) failed."
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2125
+#, fuzzy, python-format
+msgid "%(count)s network(s) removed."
+msgstr "%(count)s action(s) failed."
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2126
+#, fuzzy, python-format
+msgid "%(count)s volume(s) removed."
+msgstr "%(count)s action(s) failed."
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2128
+#, fuzzy, python-format
+msgid "%(count)s item(s) completed."
+msgstr "%(count)s selected"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2140
+#, fuzzy
+msgid "Some actions failed"
+msgstr "Connection available"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2142
+#, python-format
+msgid ""
+"%(count)s %(action)s operation(s) could not be completed.\n"
+"\n"
+"%(details)s"
+msgstr ""
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2148
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2187
+msgid "Close"
+msgstr ""
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2161
+#, fuzzy
+msgid "Action"
+msgstr "Actions"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2167
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2357
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2416
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2473
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2944
+msgid "Cancel"
+msgstr ""
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2271
+msgid "item"
+msgstr ""
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2271
+msgid "items"
+msgstr ""
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2277
+#, fuzzy, python-format
+msgid "%(count)s unused %(resource)s removed."
+msgstr "%(count)s action(s) failed."
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2282
+#, python-format
+msgid "%(message)s %(space)s reclaimed."
+msgstr ""
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2290
+msgid ""
+"This will remove all images not currently used by any container. This action "
+"cannot be undone."
+msgstr ""
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2291
+msgid ""
+"This will remove all volumes not currently used by any container. This "
+"action cannot be undone."
+msgstr ""
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2293
+msgid ""
+"This will remove all networks not currently used by containers. Default "
+"system networks are preserved by Docker."
+msgstr ""
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2296
+msgid "This action cannot be undone."
+msgstr ""
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2306
+#, fuzzy, python-format
+msgid "No unused %(resource)s found."
+msgstr "Networks"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2308
+#, fuzzy
+msgid "Prune completed"
+msgstr "%(count)s selected"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2323
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2335
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2347
+msgid "Prune"
+msgstr ""
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2358
+msgid "Pull"
+msgstr ""
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2360
+#, fuzzy
+msgid "Image reference"
+msgstr "Preferences"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2360
+msgid "nginx:latest"
+msgstr ""
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2369
+#: /home/pablo/Escritorio/docks/src/docks/services/docker_service.py:179
+msgid "The image reference cannot be empty."
+msgstr ""
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2373
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2387
+#, fuzzy
+msgid "Image pulled."
+msgstr "Image removed."
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2383
+msgid "This image has no pullable tag."
+msgstr ""
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2402
+msgid ""
+"Create a local Docker volume. The mount point is assigned automatically by "
+"Docker."
+msgstr ""
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2409
+#, fuzzy
+msgid "Volume name"
+msgstr "Volumes"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2409
+msgid "my-data"
+msgstr ""
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2419
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2476
+#, fuzzy
+msgid "Create"
+msgstr "Created"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2428
+#, fuzzy
+msgid "Volume created."
+msgstr "Volume removed."
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2454
+#, fuzzy
+msgid "Create a local Docker network for container communication."
+msgstr "The local Docker daemon did not answer correctly."
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2461
+#, fuzzy
+msgid "Network name"
+msgstr "Networks"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2461
+#, fuzzy
+msgid "my-network"
+msgstr "Networks"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2467
+msgid "Enable IPv6"
+msgstr ""
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2490
+#, fuzzy
+msgid "Network created."
+msgstr "Network removed."
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2574
+msgid ""
+"Language preference saved. Some interface strings may require a restart "
+"until full localization is added."
+msgstr ""
+"Language preference saved. Some interface strings may require a restart "
+"until full localization is added."
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2646
+msgid "Container details"
+msgstr "Container details"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2650
+msgid "Image details"
+msgstr "Image details"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2653
+msgid "Volume details"
+msgstr "Volume details"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2655
+msgid "Network details"
+msgstr "Network details"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2726
+#, fuzzy
+msgid "Delete container?"
+msgstr "Delete network"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2727
+#, python-format
+msgid "This action will permanently remove the container '%(name)s'."
+msgstr ""
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2760
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2822
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2857
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2892
+msgid "Action not supported."
+msgstr "Action not supported."
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2764
+msgid "Container started."
+msgstr "Container started."
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2765
+msgid "Container stopped."
+msgstr "Container stopped."
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2766
+msgid "Container restarted."
+msgstr "Container restarted."
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2767
+msgid "Container paused."
+msgstr "Container paused."
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2768
+msgid "Container resumed."
+msgstr "Container resumed."
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2769
+msgid "Container removed."
+msgstr "Container removed."
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2770
+#, fuzzy
+msgid "Action completed."
+msgstr "Action not supported."
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2800
+#, fuzzy
+msgid "Delete image?"
+msgstr "Delete image"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2801
+#, python-format
+msgid "This action will permanently remove the image '%(name)s'."
+msgstr ""
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2817
+msgid "Image removed."
+msgstr "Image removed."
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2835
+#, fuzzy
+msgid "Delete volume?"
+msgstr "Delete volume"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2836
+#, python-format
+msgid "This action will permanently remove the volume '%(name)s'."
+msgstr ""
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2852
+msgid "Volume removed."
+msgstr "Volume removed."
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2870
+#, fuzzy
+msgid "Delete network?"
+msgstr "Delete network"
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2871
+#, python-format
+msgid "This action will permanently remove the network '%(name)s'."
+msgstr ""
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2887
+msgid "Network removed."
+msgstr "Network removed."
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2933
+#, fuzzy
+msgid "Clipboard is not available."
+msgstr "No logs available."
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2936
+msgid "Logs copied to the clipboard."
+msgstr ""
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2940
+msgid "Save logs"
+msgstr ""
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2959
+msgid "Unable to access the selected file path."
+msgstr ""
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2963
+msgid "Logs saved."
+msgstr ""
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2981
+msgid "Loading logs…"
+msgstr ""
+
+#: /home/pablo/Escritorio/docks/src/docks/ui/window.py:2982
+msgid "No logs available."
+msgstr "No logs available."
+
+#: /home/pablo/Escritorio/docks/src/docks/services/docker_service.py:30
+msgid "Connection available"
+msgstr "Connection available"
+
+#: /home/pablo/Escritorio/docks/src/docks/services/docker_service.py:31
+msgid "The local Docker daemon answered, but the ping was not valid."
+msgstr "The local Docker daemon answered, but the ping was not valid."
+
+#: /home/pablo/Escritorio/docks/src/docks/services/docker_service.py:207
+msgid "The volume name cannot be empty."
+msgstr ""
+
+#: /home/pablo/Escritorio/docks/src/docks/services/docker_service.py:241
+msgid "The network name cannot be empty."
+msgstr ""
+
+#: /home/pablo/Escritorio/docks/src/docks/services/docker_service.py:266
+msgid "The container image cannot be empty."
+msgstr ""
+
+#: /home/pablo/Escritorio/docks/src/docks/services/docker_service.py:301
+#: /home/pablo/Escritorio/docks/src/docks/services/docker_service.py:372
+msgid "Only the local Docker Unix socket is supported right now."
+msgstr "Only the local Docker Unix socket is supported right now."
+
+#: /home/pablo/Escritorio/docks/src/docks/services/docker_service.py:305
+#: /home/pablo/Escritorio/docks/src/docks/services/docker_service.py:376
+msgid "Docker socket path is empty."
+msgstr "Docker socket path is empty."
+
+#: /home/pablo/Escritorio/docks/src/docks/services/docker_service.py:313
+#: /home/pablo/Escritorio/docks/src/docks/services/docker_service.py:384
+#, fuzzy, python-format
+msgid "Docker local socket was not found at %(path)s."
+msgstr "Docker local socket was not found at /var/run/docker.sock."
+
+#: /home/pablo/Escritorio/docks/src/docks/services/docker_service.py:317
+#: /home/pablo/Escritorio/docks/src/docks/services/docker_service.py:388
+#, fuzzy, python-format
+msgid "Permission denied while accessing %(path)s."
+msgstr "Permission denied while accessing /var/run/docker.sock."
+
+#: /home/pablo/Escritorio/docks/src/docks/services/docker_service.py:320
+#: /home/pablo/Escritorio/docks/src/docks/services/docker_service.py:391
+msgid "Could not connect to the local Docker socket."
+msgstr "Could not connect to the local Docker socket."
+
+#: /home/pablo/Escritorio/docks/src/docks/services/docker_service.py:337
+#: /home/pablo/Escritorio/docks/src/docks/services/docker_service.py:411
+msgid "The local Docker daemon did not answer correctly."
+msgstr "The local Docker daemon did not answer correctly."
+
+#: /home/pablo/Escritorio/docks/src/docks/services/docker_service.py:343
+#: /home/pablo/Escritorio/docks/src/docks/services/docker_service.py:417
+#, python-format
+msgid "Local Docker API returned HTTP %(status)s for %(path)s."
+msgstr "Local Docker API returned HTTP %(status)s for %(path)s."
+
+#: /home/pablo/Escritorio/docks/src/docks/services/docker_service.py:443
+#: /home/pablo/Escritorio/docks/src/docks/services/docker_service.py:455
+msgid "Unknown"
+msgstr "Unknown"
+
+#, fuzzy
+#~ msgid "delete"
+#~ msgstr "Delete"
+
+#, fuzzy
+#~ msgid "start"
+#~ msgstr "Restart"
+
+#, fuzzy
+#~ msgid "restart"
+#~ msgstr "Restart"
+
+#, fuzzy
+#~ msgid "pause"
+#~ msgstr "Pause"
+
+#, fuzzy
+#~ msgid "resume"
+#~ msgstr "Resume"
+
+#~ msgid "Spanish"
+#~ msgstr "Spanish"

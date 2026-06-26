@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "docks"
+version = "0.1.0"
+description = "GTK4/libadwaita Docker desktop client for GNOME"
+readme = "README.md"
+license = { text = "GPL-3.0-only" }
+requires-python = ">=3.10"
+
+[project.scripts]
+docks = "docks.main:main"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]

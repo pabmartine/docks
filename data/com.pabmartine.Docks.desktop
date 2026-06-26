@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Docks
+Comment=Local Docker desktop client for GNOME
+Exec=docks
+Icon=com.pabmartine.Docks
+Terminal=false
+Type=Application
+Categories=Development;
+StartupNotify=true
+Keywords=Docker;Containers;Images;Volumes;Networks;

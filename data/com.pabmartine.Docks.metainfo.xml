@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>com.pabmartine.Docks</id>
+  <name>Docks</name>
+  <summary>Manage the local Docker engine from a GNOME desktop app</summary>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0-only</project_license>
+  <developer id="com.pabmartine">
+    <name>pabmartine</name>
+  </developer>
+  <launchable type="desktop-id">com.pabmartine.Docks.desktop</launchable>
+  <description>
+    <p>Docks is a GTK4 and libadwaita desktop client focused on managing the local Docker engine from GNOME.</p>
+    <p>It provides quick access to containers, images, networks and volumes, with resource details and common lifecycle actions.</p>
+  </description>
+  <categories>
+    <category>Development</category>
+    <category>System</category>
+  </categories>
+  <keywords>
+    <keyword>Docker</keyword>
+    <keyword>Containers</keyword>
+    <keyword>Volumes</keyword>
+    <keyword>Networks</keyword>
+  </keywords>
+  <url type="homepage">https://github.com/pabmartine/docks</url>
+  <content_rating type="oars-1.1"/>
+  <releases>
+    <release version="0.1.0" date="2026-03-13"/>
+  </releases>
+</component>

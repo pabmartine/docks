@@ -1,0 +1,55 @@
+app-id: com.pabmartine.Docks
+runtime: org.gnome.Platform
+runtime-version: "50"
+sdk: org.gnome.Sdk
+command: docks
+
+finish-args:
+  - --share=ipc
+  - --socket=fallback-x11
+  - --socket=wayland
+  - --device=dri
+  - --filesystem=xdg-config:create
+  - --filesystem=xdg-data:create
+  - --filesystem=/var/run/docker.sock
+  - --talk-name=org.freedesktop.portal.*
+  - --talk-name=org.gtk.vfs.*
+  - --talk-name=org.freedesktop.appearance
+
+modules:
+  - name: docks
+    buildsystem: simple
+    build-commands:
+      - mkdir -p /app/bin /app/src /app/share/applications /app/share/icons/hicolor/scalable/apps /app/share/icons/hicolor/256x256/apps /app/share/locale /app/share/metainfo
+      - cp -r src/docks /app/src/
+      - |
+        cat > /app/bin/docks << 'EOF'
+        #!/bin/bash
+        export FLATPAK_ID="com.pabmartine.Docks"
+        export XDG_CONFIG_HOME="${XDG_CONFIG_HOME:-$HOME/.config}"
+        export XDG_DATA_HOME="${XDG_DATA_HOME:-$HOME/.local/share}"
+        mkdir -p "$XDG_CONFIG_HOME/docks"
+        mkdir -p "$XDG_DATA_HOME/docks"
+        export PYTHONPATH="/app/src${PYTHONPATH:+:$PYTHONPATH}"
+        exec python3 -m docks.main "$@"
+        EOF
+      - chmod +x /app/bin/docks
+      - install -D -m644 data/com.pabmartine.Docks.desktop /app/share/applications/com.pabmartine.Docks.desktop
+      - install -D -m644 data/icons/hicolor/256x256/apps/com.pabmartine.Docks.png /app/share/icons/hicolor/256x256/apps/com.pabmartine.Docks.png
+      - install -D -m644 data/com.pabmartine.Docks.metainfo.xml /app/share/metainfo/com.pabmartine.Docks.metainfo.xml
+      - |
+        if [ -d "locale" ]; then
+          for lang_dir in locale/*/; do
+            if [ -d "$lang_dir" ]; then
+              lang=$(basename "$lang_dir")
+              po_file="$lang_dir/LC_MESSAGES/docks.po"
+              mkdir -p "/app/share/locale/$lang/LC_MESSAGES"
+              if [ -f "$po_file" ]; then
+                msgfmt "$po_file" -o "/app/share/locale/$lang/LC_MESSAGES/docks.mo"
+              fi
+            fi
+          done
+        fi
+    sources:
+      - type: dir
+        path: ../..

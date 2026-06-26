@@ -1,0 +1,2 @@
+recursive-include locale *.po *.mo *.pot
+recursive-include data *.desktop *.xml *.svg
