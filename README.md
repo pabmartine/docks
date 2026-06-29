@@ -2,6 +2,8 @@
 
 `Docks` is a GTK4/libadwaita Docker desktop client for GNOME focused on the local Docker engine.
 
+![Docks Screenshot](snapshots/screenshot-1.png)
+
 ## Current Scope
 
 Today the project is aimed at:
@@ -57,6 +59,20 @@ docks
 ```bash
 PYTHONPATH=src python3 -m unittest discover -s tests -v
 ```
+
+## Screenshots
+
+### Main Dashboard
+![Main Dashboard](snapshots/screenshot-1.png)
+
+### Container Details
+![Container Details](snapshots/screenshot-2.png)
+
+### Images Registry
+![Images Registry](snapshots/screenshot-3.png)
+
+### Volumes and Networks
+![Volumes and Networks](snapshots/screenshot-4.png)
 
 ## Documentation
 
