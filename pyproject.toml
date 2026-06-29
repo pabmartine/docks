@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "docks"
-version = "0.1.0"
+version = "1.3.0"
 description = "GTK4/libadwaita Docker desktop client for GNOME"
 readme = "README.md"
 license = { text = "GPL-3.0-only" }
