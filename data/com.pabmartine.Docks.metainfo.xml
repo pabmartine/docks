@@ -23,6 +23,25 @@
     <keyword>Volumes</keyword>
     <keyword>Networks</keyword>
   </keywords>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/pabmartine/docks/main/snapshots/screenshot-1.png</image>
+      <caption>Main dashboard and containers list</caption>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/pabmartine/docks/main/snapshots/screenshot-2.png</image>
+      <caption>Detailed container resource status and controls</caption>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/pabmartine/docks/main/snapshots/screenshot-3.png</image>
+      <caption>Images registry and local cache management</caption>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/pabmartine/docks/main/snapshots/screenshot-4.png</image>
+      <caption>Volumes and networks inspection</caption>
+    </screenshot>
+  </screenshots>
+
   <url type="homepage">https://github.com/pabmartine/docks</url>
   <content_rating type="oars-1.1"/>
   <releases>
